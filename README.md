@@ -8,3 +8,7 @@ This is just a test repository
 ~~strike~~
 
 > this is a quote
+
+*italic*
+
+**bold**
