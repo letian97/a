@@ -12,3 +12,7 @@ This is just a test repository
 *italic*
 
 **bold**
+
+```
+some random code
+```
